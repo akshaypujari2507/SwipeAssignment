@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SwipeAssignment" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+         <item name="colorPrimary">@color/black</item>
+    </style>
+    <style name="MyEditText" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <!-- Customize your dark theme here. -->
+         <item name="colorPrimary">@color/gray300</item>
+    </style>
+</resources>

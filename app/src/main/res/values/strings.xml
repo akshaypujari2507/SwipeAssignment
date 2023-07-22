@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SwipeAssignment</string>
+    <string name="addProduct">Add Product</string>
+    <string name="searchbar_hint">Search</string>
+    <string name="error_listings">Could not fetch listings.</string>
+    <string name="error_add_product">Failed to add product to listings.</string>
+    <string name="failed_to_load">Failed to load data. Please try again later.</string>
+    <string name="product_name">Name</string>
+    <string name="product_type">Type</string>
+    <string name="product_price">Price</string>
+    <string name="product_tax">Tax</string>
+    <string name="error_fields_empty">All fields except product image are mandatory.</string>
+    <string name="error_fields_invalid">Fields Price or Tax are invalid.</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="success_add_product">Successfully added the product.</string>
+    <string name="select_an_image">Select an image to upload:</string>
+    <string name="plus">+</string>
+    <string name="selected">"Image selected!"</string>
+
+</resources>
