@@ -5,6 +5,8 @@ This is an Android Application based on MVVM Pattern its help to get and post pr
 # Built With
 + Kotlin
 + MVVM
++ Single Activity Pattern
++ Navigation
 + Retrofit (network Calling)
 + Progress Bar
 + Glide for image
